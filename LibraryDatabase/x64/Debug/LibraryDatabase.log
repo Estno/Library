@@ -1,0 +1,16 @@
+﻿  Book.cpp
+  Catalogue.cpp
+  date.cpp
+  Library.cpp
+  LibraryAdmin.cpp
+  LibraryDatabase.cpp
+  LibraryMember.cpp
+  LibraryWorker.cpp
+C:\Users\macie\OneDrive\Pulpit\LibraryDatabase-master\LibraryDatabase-master\LibraryWorker.cpp(454,27): warning C4129: ".": nierozpoznany znak sekwencji ucieczki
+  Loan.cpp
+  Person.cpp
+  SaveFileManager.cpp
+  user_input.cpp
+C:\Users\macie\OneDrive\Pulpit\LibraryDatabase-master\LibraryDatabase-master\user_input.cpp(32,38): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+  LibraryDatabase.vcxproj -> C:\Users\macie\OneDrive\Pulpit\LibraryDatabase-master\LibraryDatabase-master\x64\Debug\LibraryDatabase.exe
